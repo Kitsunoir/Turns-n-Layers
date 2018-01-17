@@ -1,0 +1,14 @@
+------------------------------------ README ------------------------------------
+
+Turns-n-Layers is an electronic design aid that calculates the physical
+dimensions of a finished coil. These may be would on either round or
+rectangular cores.
+
+Units of measurement are the American customary units: inches,
+feet, mils, and the B & S American Wire Gage system, as presented in
+_The Design and Construction of Induction Coils_ by A. Frederick Collins
+(Lindsay Publications Inc.; 1907 / 1990). Measurements may also be entered
+as metric units.
+
+For further details on installing Turns-n-Layers, see "INSTALL". For more
+details on using Turns-n-Layers, see the on-line help and the man page.

@@ -1,0 +1,61 @@
+Turns-n-Layers Help
+
+    The Turns-n-Layers application is an electronic design aid. It does
+    the physical design of a
+    multi-layer coil, not the electronic design. Given the required
+    number of turns, the core dimensions, and the thickness of any layer
+    insulation, Turns-n-Layers will calculate the finished dimensions.
+    Wire gages from 0 to 40 are supported.
+
+    This is good to know, to see if your proposed design will fit inside
+    the "window" of E-I cores, or C-cores. It also estimates the likely
+    length and weight of wire needed to complete the coil, and the total resistance of the finished coil.
+
+Main Menu: Project
+
+     NewProj: Start a new project by resetting the app to its initial conditions.
+     prompts if a current project is unsaved.
+
+     Total Turns: Determines how many turns can be wound, given a length of wire.
+
+     Wire Length: Determines the length of wire needed to complete a coil.
+
+     Save as...: Save the current project.
+
+     Print...: Print hard copy of the project.
+
+Main Menu: Cores
+
+     Rect: Selects a rectangular core
+
+     Rnd: Selects a round core
+
+Main Menu: Help
+
+     Contents...: Display this help.
+
+     About...: Show the "About" box.
+
+     Dolphins...: Show a special message.
+
+User Input:
+
+     The units of measurement is selected via radio buttons.
+     Defaults to American customary units.
+
+     Note: Text fields that are not needed are grayed out.
+
+Command Buttons:
+
+    OK: Used to finalize a project and display the results.
+
+    Cancel: Remove the current project before completion and
+    reset the app.
+
+Note:
+
+    The results given are accurate for machine wound coils. The
+    finished dimensions of hand wound coils will likely vary with
+    the winder's experience. When hand winding, expect that the
+    final dimensions of the coil(s) is likely to have been
+    underestimated.

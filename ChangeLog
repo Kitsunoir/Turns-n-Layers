@@ -1,0 +1,13 @@
+---------------------------------- ChangeLog  ----------------------------------
+
+6 July, 2012 (Simo) :
+  Completed the conversion from a command line app to a visual app.
+
+  *) GUI made with the FOX toolkit (Ver: 1.6.45)
+
+1 March, 2013 (Simo) :
+	Redesigned the button activation sequence to remove ambiguity.
+
+26 Dec, 2017 (Simo) :
+	Updated, streamlined the code. Added more metric scale
+	options. Included newest stable version of FOX.
